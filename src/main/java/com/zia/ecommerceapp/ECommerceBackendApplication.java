@@ -1,4 +1,4 @@
-package com.zia.ecommerce;
+package com.zia.ecommerceapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
